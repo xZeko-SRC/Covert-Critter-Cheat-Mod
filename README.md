@@ -10,7 +10,7 @@ This cheat menu has
 - Enable No Clip
 - Enable FPS Camera (works but movement janky
 
-![Imgur](https://imgur.com/GZIqSr3)
+[Imgur](https://imgur.com/GZIqSr3)
 
 ## Install
 Download Melonloader and install to Covert Critters exe
