@@ -12,7 +12,9 @@ This cheat menu has
 
 ## Install
 Download Melonloader and install to Covert Critters exe
+
 in the directory of Covert Critters will be a mod folder
+
 Place the CCMod.dll inside there and run the game
 
 ## Authors
