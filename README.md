@@ -11,7 +11,7 @@ This cheat menu has
 - Enable FPS Camera (works but movement janky
 
 
-<img src="https://github.com/xZeko-SRC/Covert-Critter-Cheat-Mod/blob/main/assets/CCMod.png" width="600" height="400" />
+<img src="https://github.com/xZeko-SRC/Covert-Critter-Cheat-Mod/blob/main/assets/CCMod.png" width="700" height="400" />
 
 ## Install
 Download Melonloader and install to Covert Critters exe
