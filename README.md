@@ -11,6 +11,7 @@ This cheat menu has
 - Enable FPS Camera (works but movement janky
 
 [Imgur](https://imgur.com/GZIqSr3)
+<img src="https://imgur.com/GZIqSr3" alt="logo" width="600" height="100" />
 
 ## Install
 Download Melonloader and install to Covert Critters exe
